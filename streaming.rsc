@@ -1,0 +1,11 @@
+/ip firewall address-list
+add list=Streaming address=youtube.com
+add list=Streaming address=ytimg.com
+add list=Streaming address=googlevideo.com
+add list=Streaming address=netflix.com
+add list=Streaming address=nflxvideo.net
+add list=Streaming address=spotify.com
+add list=Streaming address=fbcdn.net
+add list=Streaming address=facebook.com
+add list=Streaming address=tiktokcdn.com
+add list=Streaming address=tiktokv.com
