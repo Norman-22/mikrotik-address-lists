@@ -1,0 +1,12 @@
+/ip firewall address-list
+add list=Games address=garena.com
+add list=Games address=codm.garena.com
+add list=Games address=pubgmobile.com
+add list=Games address=riotgames.com
+add list=Games address=valorant.secure.dyn.riotcdn.net
+add list=Games address=leagueoflegends.com
+add list=Games address=dota2.steampowered.com
+add list=Games address=roblox.com
+add list=Games address=epicgames.com
+add list=Games address=steamcommunity.com
+add list=Games address=rockstargames.com
